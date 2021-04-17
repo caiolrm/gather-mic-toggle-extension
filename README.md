@@ -1,4 +1,4 @@
-# Gather.town Mic Toggle Chrome Extension
+# Gather.Town Mic Toggle Chrome Extension
 
 Provides a mic toggle shortcut. (Default: Ctrl+Q, but you can customize it on chrome://extensions/shortcuts)
 
