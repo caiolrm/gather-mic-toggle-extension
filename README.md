@@ -2,7 +2,11 @@
 
 Provides a mic toggle shortcut. (Default: Ctrl+Q, but you can customize it on chrome://extensions/shortcuts)
 
-# How to download and install
+# Download
+
+https://chrome.google.com/webstore/detail/gather-mic-toggle/dicgdmbehbkbkncebodffnhkgoaebpoo
+
+# How to download and install manually
 
 1. Download the zip package:
 https://github.com/caiolrm/gather-mic-toggle-extension/archive/refs/tags/v1.0-beta.zip
@@ -15,7 +19,3 @@ https://github.com/caiolrm/gather-mic-toggle-extension/archive/refs/tags/v1.0-be
 # I installed the extension, but the shortcut won't work
 
 It's probably because the shortcut isn't set. Try opening chrome://extensions/shortcuts, find the extension "Gather Mic Toggle" and set it to whatever you like.
-
-# Why can't I download this on the chrome webstore?
-
-The extension is under review, you probably will be able to later on.
